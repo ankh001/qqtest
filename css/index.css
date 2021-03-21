@@ -1,0 +1,171 @@
+a {
+    text-decoration: none;
+    color: #000;
+}
+body {
+    background: url(../images/tim_bg_1.jpg) no-repeat fixed;
+}
+.nav {
+    margin: 0 auto;
+    width: 1100px;
+    height: 80px;
+}
+.topbar {
+    position: relative;
+    height: 80px;
+    line-height: 80px;
+}
+.logo {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+}
+.nav-ul {
+    margin-left: 170px;
+}
+.nav-ul li .nav-ul-a{
+    padding: 0 20px;
+    margin: 0 5px;
+    float: left;
+    height: 80px;
+    line-height: 80px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.nav-ul li a:hover {
+    background-color: skyblue;
+}
+.current-nav {
+    background-color: skyblue;
+}
+.toptool {
+    position: relative;
+}
+.barzc {
+    position: absolute;
+    top: 15px;
+    right: 25%;
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 25px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    background-color: rgb(66, 108, 248);
+}
+.toploin {
+    position: absolute;
+    top: 0;
+    right: 3%;
+    width: 220px;
+    height: 80px;
+}
+.toploin ul li a {
+    margin-top: 15px;
+    float: right;
+    padding: 0 13px;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 600;
+}
+.toploin-a {
+    margin-left: 10px;
+    position: absolute;
+    bottom: 10px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 16px;
+}
+.main {
+    margin: 0 auto;
+    width: 1100px;
+}
+.banner {
+    margin: 0 auto;
+    width: 750px;
+    height: 470px;
+}
+.bann-logo {
+    margin: 5px auto 0;
+    width: 380px;
+    height: 300px;
+    background: url(../images/logo.png) no-repeat center top;
+    
+}
+.bann-a {
+    margin-left: 40px;
+    position: absolute;
+    bottom: 250px;
+    width: 300px;
+    height: 70px;
+    line-height: 70px;
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 45px;
+    background-color: rgb(83, 141, 248);
+}
+.words {
+    margin-top: 40px;
+    width: 750px;
+    height: 200px;
+    background: url(../images/icon.png) no-repeat center top;
+}
+.tim-img {
+    width: 100%;
+    height: auto;
+}
+.tim-img01 {
+    margin-top: -170px;
+    width: 100%;
+}
+.content {
+    position: relative;
+    width: 100%;
+}
+.bg1 {
+    height: 600px;
+    width: 100%;
+    background: url(../images/fisrtbg.jpg) no-repeat fixed;
+}
+.bg2 {
+    height: 600px;
+    width: 100%;
+    background: url(../images/avds.jpg) no-repeat fixed;
+}
+.bg3 {
+    height: 600px;
+    width: 100%;
+    background: url(../images/blog.jpg) no-repeat fixed;
+}
+.content1 {
+    position: relative;
+    height: 500px;
+    width: 100%;
+    background-color: #fff;
+}
+.qqlive {
+    position: absolute;
+    top: 50px;
+    right: 15%;
+    height: 400px;
+    width: 600px;
+}
+.qqlive-img {
+    position: absolute;
+    right: 0;
+    top: 35px;
+}
+.qqlive-txt {
+    position: absolute;
+    top: 35%;
+    right: 0;
+    font-size: 20px;
+}
+.qqlive-txt a {
+    position: absolute;
+    right: 0;
+    top: 90%;
+    color: skyblue;
+}
